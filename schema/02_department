@@ -1,10 +1,10 @@
 /*
-Table : 02_departments
+Table : departments
 Purpose : Stores internal departments of NBFC (Sales, Credit, Finance)
 
 */
 
-create table 02_departments(
+create table departments(
 	department_id INT primary key,
     department_name varchar(50)
 )
