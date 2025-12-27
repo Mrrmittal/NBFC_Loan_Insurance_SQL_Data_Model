@@ -1,9 +1,9 @@
 /* 
-Table : Branches
+Table : branches
 purpose : Stores NBFC branch-level information
 */
 
-create table 01_branches (
+create table branches (
 	branch_id INT primary key,
     branch_name varchar(50),
     city varchar(50)
