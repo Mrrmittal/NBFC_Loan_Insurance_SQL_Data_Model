@@ -1,0 +1,2 @@
+create database if NOT exists NBFC_Loan_Insurance_SQL_Data_Model;
+use NBFC_Loan_Insurance_SQL_Data_Model;
